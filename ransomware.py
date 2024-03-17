@@ -1,5 +1,3 @@
-#!/usr/bin/python
-# coding: ascii
 
 import os
 import argparse
